@@ -1,4 +1,5 @@
-###example usage:
+## Logger
+### example usage:
 
 ```
 public class Main {
